@@ -3,7 +3,7 @@
 int main()
 {
     printf("こんにちわ\n");
-    printf("おはようございます。");
+    printf("おはようございます。\n");
 
 
     return 0;
